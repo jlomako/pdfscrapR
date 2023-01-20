@@ -1,4 +1,3 @@
-# pdfscrapR
 A bot written in R that extracts a table from a pdf file, processes the data and saves everything to a csv file. It runs every day around noon local time. It is a bit slow and has been replaced by a faster bot that does exactly the same thing but in python: <a href = "https://github.com/jlomako/pdfscraper">pdfscraper</a>
 
 [![pdfscraper_R](https://github.com/jlomako/pdfscraper-R/actions/workflows/pdfscraper.yml/badge.svg)](https://github.com/jlomako/pdfscraper-R/actions/workflows/pdfscraper.yml)
