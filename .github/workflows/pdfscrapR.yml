@@ -1,14 +1,14 @@
-name: pdfscraper
+name: pdfscraper_R
 # runs R pdftools on macos-11 v2
 # renv.lock file must be in directory
-
-## run script on push
-on: push
 
 ## script will run around 1pm local time
 #on:
 #  schedule:
 #  - cron: 0 17 * * *
+  
+## run script on push
+on: push
 
 jobs:
   pdfscraper:
