@@ -4,7 +4,7 @@
 # packages:
 library(stringr)
 library(dplyr)
-library(ggplot2)
+# library(ggplot2)
 library(tidyr)
 library(pdftools)
 
