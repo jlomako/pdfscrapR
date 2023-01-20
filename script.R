@@ -1,4 +1,5 @@
-# gets content from pdf, extracts and cleans data, and saves output to csv file
+# gets content from pdf, extracts and cleans data, and saves output to csv files
+# plots data (deactivated)
 # gets Occupancy rates in Montreal emergency rooms from pdf (backup)
 
 # packages:
