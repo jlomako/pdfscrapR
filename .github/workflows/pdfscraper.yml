@@ -11,7 +11,7 @@ name: pdfscraper_R
 on: push
 
 jobs:
-  pdfscraper:
+  get-data-from-pdf:
     runs-on: macos-11
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
