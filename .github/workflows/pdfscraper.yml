@@ -1,6 +1,6 @@
 name: pdfscraper_R
 # runs R pdftools on macos-11 v2
-# renv.lock file must be in directory
+# renv.lock file must be in directory 
 
 ## script will run around 1pm local time
 #on:
