@@ -10,3 +10,4 @@ A bot written in R that extracts a table from a pdf file, processes the data and
 * ggplot stopped working and has been de-activated until I find a solution
 * created new yml file that loads packages from renv.lock (still runs on macos-11, ubuntu not working)
 * if run fails with error exit code 128 check <code>Workflow permissions</code> settings > actions > general: read and write permissions need to be activated
+* bot has been retired and replaced by a faster version. It's  still operational as of February 8th, 2023.
